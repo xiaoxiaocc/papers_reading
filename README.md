@@ -1,3 +1,3 @@
 # papers_reading
-Some notes about learning and reading1
+Some notes about paper reading
 
