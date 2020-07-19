@@ -1,2 +1,2 @@
 # papers_reading
-notes
+Some notes about learning and reading

@@ -23,15 +23,10 @@ known_hosts：保存已认证的远程主机ID（关于known_hosts详情，见�
 ### 本地仓库关联github仓库
 
 1. github上新建一个仓库
-
 2. 本地要建立仓库的地方: git init
-
 3. git remote add origin git@github.com:xiaoxiaocc/papers_reading.git  这部分内容来自github新建的仓库
-
-4. git pull 
-
-5. git branch --set-upstream-to origin/master
-
+4. git branch --set-upstream-to origin/master
+5. git pull --rebase
 6. git push
 
 
