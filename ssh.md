@@ -11,7 +11,7 @@
 4. Server端会也会对R和SessionKey利用同样摘要算法生成Digest2。
 5. Server端会最后比较Digest1和Digest2是否相同，完成认证过程。
 
-<img src="/Users/xuanshiyang/Desktop/notes/ssh.assets/image-20200719141904703.png" alt="image-20200719141904703" style="zoom:50%;" />
+<img src="ssh.assets/image-20200719160146454.png" alt="image-20200719160146454" style="zoom:50%;" />
 
 
 
