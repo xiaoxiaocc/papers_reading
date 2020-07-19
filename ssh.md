@@ -13,8 +13,6 @@
 
 <img src="ssh.assets/image-20200719160146454.png" alt="image-20200719160146454" width=600 />
 
-
-
 ### so, github的认证就是干了这么一件事
 
 ### 
